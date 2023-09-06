@@ -1,0 +1,2 @@
+# databank
+Practica mysl
